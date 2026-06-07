@@ -1,4 +1,4 @@
-# Intelligent Mobile Robot Navigation using Hybrid Fuzzy-GA
+# Intelligent Mobile Robot Navigation using Hybrid Fuzzy-GA 🚀💥
 
 This repository contains the simulation and report for an autonomous mobile robot navigation system developed using a **Hybrid Fuzzy-Genetic Algorithm (GA)** architecture. The system enables a point-mass robot to navigate from a starting point to a designated goal while avoiding static obstacles in 2D environments.
 
